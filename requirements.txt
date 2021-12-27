@@ -1,0 +1,2 @@
+django==3.1.14
+mssql-django=1.1
